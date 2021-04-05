@@ -1,0 +1,27 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="poke2.textPokemonNo" />
+          <option value="poke2.lblNameValuel" />
+          <option value="poke2.lblHPValue" />
+          <option value="poke2.lblAtake" />
+          <option value="poke2.lblDefens" />
+          <option value="poke2.lblSpeed" />
+          <option value="poke2.Tk" />
+          <option value="poke2.Label" />
+          <option value="poke2.window" />
+          <option value="poke2.Entry" />
+          <option value="poke2.Button" />
+          <option value="poke1.Label" />
+          <option value="poke1.window" />
+          <option value="poke1.Entry" />
+          <option value="poke1.Button" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
